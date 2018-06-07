@@ -1,0 +1,2 @@
+# jiji.class
+jiji.class
